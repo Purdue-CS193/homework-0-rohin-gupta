@@ -1,9 +1,9 @@
 # rohin-gupta's first CS193 Homework
 
 My favorite things about CS193
-- Thorough Presentations
-- Detailed HW Instructions
-- Easy to talk to Instructors
+- Thorough lecture presentations
+- Detailed homework instructions
+- Instructors easy to talk to
 
 ### Markdown
 
