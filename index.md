@@ -2,7 +2,7 @@
 
 # rohin-gupta's first CS193 Homework
 
-# Favorite things about CS193
+Favorite things about CS193
 - HELP
 - HELP
 - HELP
