@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
-
 # rohin-gupta's first CS193 Homework
 
-Favorite things about CS193
-- HELP
-- HELP
-- HELP
+My favorite things about CS193
+- Thorough Presentations
+- Detailed HW Instructions
+- Easy to talk to Instructors
 
 ### Markdown
 
