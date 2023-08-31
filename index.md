@@ -1,4 +1,4 @@
-# rohin-gupta's first CS193 Homework
+# rohin-gupta's First CS193 Homework
 
 My favorite things about CS193
 - Thorough lecture presentations
