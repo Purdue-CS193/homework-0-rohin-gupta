@@ -1,4 +1,5 @@
-## Homework 0
+## Homework
+
 # rohin-gupta's first CS193 Homework
 
 My favorite things about CS193
